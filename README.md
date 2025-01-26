@@ -12,7 +12,7 @@
 
 <p> 4. The website has been created. Navigate to the project file by running: </p>
 
-<code> cd coding_club_website </code>
+<code> cd django_template </code>
 
 <p> 5. If Django is not installed yet, run this command: (You can run it just in case)</p>
 
