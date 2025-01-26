@@ -6,7 +6,7 @@
 
 <p> 2. Open the coding-club folder </p>
 
-<p> 3. Run this command in the terminal ( Terminal > New Terminal if no terminal is open ):</p>
+<p> 3. Run this command in the terminal: ( Terminal > New Terminal if no terminal is open )</p>
 
 <code> git clone https://github.com/14isgreat/django_template.git </code>
 
