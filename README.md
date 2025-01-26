@@ -10,7 +10,7 @@
 
 <code> git clone https://github.com/14isgreat/django_template.git </code>
 
-<p> 4. Rename the project (No spaces can be in the name, you can use _ instead)</p>
+<p> 4. Rename the project (No spaces can be in the name, you can use _ instead) by runnning: </p>
 
 <code> mv django_template {replace with your website name} </code>
 
