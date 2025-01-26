@@ -4,7 +4,7 @@
 
 <p> 1. Open Visual Studio Code</p>
 
-<p> 2. Open the coding-club folder </p>
+<p> 2. Open the <code>coding-club</code> folder </p>
 
 <p> 3. Run this command in the terminal ( Terminal > New Terminal if no terminal is open ):</p>
 
